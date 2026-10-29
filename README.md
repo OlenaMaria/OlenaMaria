@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Olena-Maria 👋
 
-<!--
-**OlenaMaria/OlenaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 PhD candidate specialising in **single-cell transcriptomics,
+long-read sequencing and reproducible bioinformatics**.
 
-Here are some ideas to get you started:
+I combine experimental method development with computational analysis
+to investigate cellular diversity and transcript isoforms. My long-term
+motivation is to use genomics to understand disease and improve human health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 My research
+
+- **PhD:** planarian regeneration, single-cell transcriptomics and
+  SPLiT-seq long-read protocol development.
+- **Oxford Nanopore Technologies:** ultra-long and Pore-C dataset
+  generation, and work towards telomere-to-telomere assembly of a human cell line.
+- **MSc Genomic Medicine:** investigation of PTCH1 variants in
+  Gorlin syndrome using Sanger sequencing.
+- **Procter & Gamble:** antimicrobial formulation research,
+  laboratory management and a contribution to a **patent**.
+
+## 💻 Technical toolkit
