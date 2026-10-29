@@ -28,3 +28,8 @@ Single-cell transcriptomics · ONT long-read sequencing · Isoform analysis · G
 **Cell cycle exit is required for differentiation and cell fate diversification but not neoblast specialisation in planarians**  
 Peron, S., **Balta, O.-M.**, et al. (2026). *bioRxiv* preprint.  
 [Read the preprint](https://www.biorxiv.org/content/10.64898/2026.09.16.750956v1)
+
+## 💡 Patents
+
+Co-inventor on a [published patent application](https://patents.google.com/patent/US20220174949A1/en)
+from my antimicrobial research at **Procter & Gamble**.
