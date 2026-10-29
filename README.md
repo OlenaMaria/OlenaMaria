@@ -19,3 +19,12 @@ motivation is to use genomics to understand disease and improve human health.
   laboratory management and a contribution to a **patent**.
 
 ## 💻 Technical toolkit
+
+Python · R · Bash · Scanpy · Nextflow · Unix/Linux  
+Single-cell transcriptomics · ONT long-read sequencing · Isoform analysis · Genome assembly
+
+## 📝 Publications
+
+**Cell cycle exit is required for differentiation and cell fate diversification but not neoblast specialisation in planarians**  
+Peron, S., **Balta, O.-M.**, et al. (2026). *bioRxiv* preprint.  
+[Read the preprint](https://www.biorxiv.org/content/10.64898/2026.09.16.750956v1)
